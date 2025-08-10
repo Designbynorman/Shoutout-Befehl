@@ -23,7 +23,7 @@ OBS STUDIO SETTINGS
   
 ![sb](https://github.com/Designbynorman/Shoutout-via-Twitch-Streamer.bot/blob/main/RaidAuto.png)
 
-[Snippet](https://github.com/Designbynorman/Shoutout-via-Twitch-Streamer.bot/blob/main/code)
+[Snippet](https://github.com/Designbynorman/Shoutout-Befehl/blob/main/snippet)
 
 __Social media__
 
