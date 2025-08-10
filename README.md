@@ -1,6 +1,10 @@
 # Streamerbot
 __Shoutout / Befehl / Command__
 
+Snippet beinhaltet
+
+- 1* Action 1* Queues 1* Command 1* Trigger
+  
 [![ko-fi](https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png)](https://ko-fi.com/W7W5Z38WJ)
 
 - Mit dem Befehl / command _!so_ (@designbynorman) wird eine Twitch Chat Nachricht generiert. Optional mit Sound. 
@@ -8,6 +12,10 @@ __Shoutout / Befehl / Command__
 ![sb](https://github.com/Designbynorman/Shoutout-Befehl/blob/main/SO.png)
 
 - __Snippets for Streamerbot in german.__
+
+Command aktivieren (Enabled) checkbox
+
+![sb](https://github.com/Designbynorman/Shoutout-Befehl/blob/main/SO.png)
 
 - Snippet (Vorlage) Text Nachricht kann individuell bearbeitet werden, die Vorlage enthält drei Variablen in den % Zeichen.
 
@@ -21,15 +29,9 @@ __Shoutout / Befehl / Command__
 
 ![sb](https://github.com/Designbynorman/Shoutout-Befehl/blob/main/chat.png)
 
-Snippet beinhaltet
-
-- 1* Action 1* Trigger 1* Queues 1* Command
-
 OBS STUDIO SETTINGS
 
 - Nicht erforderlich
-  
-![sb](https://github.com/Designbynorman/Shoutout-via-Twitch-Streamer.bot/blob/main/RaidAuto.png)
 
 [Snippet](https://github.com/Designbynorman/Shoutout-Befehl/blob/main/snippet)
 
