@@ -1,9 +1,9 @@
 # Streamerbot
-__Shoutout_Befehl_Command__
+__Shout out / Befehl / Command__
 
 [![ko-fi](https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png)](https://ko-fi.com/W7W5Z38WJ)
 
-- Mit dem Befehl / command !so wird eine Twitch Chat Nachricht generiert. 
+- Mit dem Befehl / command _!so_ wird eine Twitch Chat Nachricht generiert. 
 
 - __Snippets for Streamerbot in german.__
 
