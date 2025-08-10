@@ -1,5 +1,5 @@
 # Streamerbot
-__Shoutout_automatisch__
+__Shoutout_Befehl_Command__
 
 [![ko-fi](https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png)](https://ko-fi.com/W7W5Z38WJ)
 
