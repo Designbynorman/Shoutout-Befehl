@@ -3,11 +3,11 @@ __Shoutout_Befehl_Command__
 
 [![ko-fi](https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png)](https://ko-fi.com/W7W5Z38WJ)
 
-- Kommt ein Raid, bedankt sich der Bot automatsich beim Raider! +DC Benachrichtigung!
+- Mit dem Befehl / command !So wird eine Twitch Chat Nachricht generiert. 
 
 - __Snippets for Streamerbot in german.__
 
-- Snippet (Vorlage) Optional auch an einem Discord Kanal. Hier muss lediglich die __Webhook URL__ angepasst werden.
+- Snippet (Vorlage) Text Nachricht kann individuell bearbeitet werden, die Vorlage enthält drei Variablen in den % Zeichen. 
 
 Snippet beinhaltet
 
