@@ -3,7 +3,7 @@ __Shout out / Befehl / Command__
 
 [![ko-fi](https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png)](https://ko-fi.com/W7W5Z38WJ)
 
-- Mit dem Befehl / command _!so_ wird eine Twitch Chat Nachricht generiert. 
+- Mit dem Befehl / command _!so_ wird eine Twitch Chat Nachricht generiert. Optional mit Sound. 
 
 - __Snippets for Streamerbot in german.__
 
@@ -11,7 +11,7 @@ __Shout out / Befehl / Command__
 
 Snippet beinhaltet
 
-- 1* Action 1* Trigger 1* Queues 1* Ohne Command (nicht aktiv)
+- 1* Action 1* Trigger 1* Queues 1* Command
 
 - YouTube Playlist
 
