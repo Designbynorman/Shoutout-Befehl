@@ -13,7 +13,7 @@ Snippet beinhaltet
 
 - 1* Action 1* Trigger 1* Queues 1* Command
 
-- YouTube Playlist
+__YouTube Playlist__
 
 [SB Einrichtung](https://www.designbynorman.com/streamer-bot-einrichten/)
 
