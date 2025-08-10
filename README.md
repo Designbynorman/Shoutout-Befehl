@@ -25,6 +25,8 @@ Command aktivieren (Enabled) checkbox
 
 ![sb](https://github.com/Designbynorman/Shoutout-Befehl/blob/main/sound.png)
 
+![sound](https://github.com/Designbynorman/Shoutout-Befehl/raw/refs/heads/main/thx1.mp3)
+
 - Twitch chat
 
 ![sb](https://github.com/Designbynorman/Shoutout-Befehl/blob/main/chat.png)
