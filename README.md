@@ -15,7 +15,7 @@ Snippet beinhaltet
 
 Command aktivieren (Enabled) checkbox
 
-![sb](https://github.com/Designbynorman/Shoutout-Befehl/blob/main/SO.png)
+![sb](https://github.com/Designbynorman/Shoutout-Befehl/blob/main/aktivieren.png)
 
 - Snippet (Vorlage) Text Nachricht kann individuell bearbeitet werden, die Vorlage enthält drei Variablen in den % Zeichen.
 
